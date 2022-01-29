@@ -1,2 +1,2 @@
 # This is my ReadMe
-Put any extra information or notes here.
+Lab 3 phase 2 (Anthony Bui, Erik Luu, Evelyn Tran)
